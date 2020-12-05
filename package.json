@@ -1,26 +1,16 @@
 {
-    "name": "frontend_development",
-    "version": "1.0.0",
-    "description": "Bootstrap and nodejs",
-    "main": "index.html",
-    "scripts": {
-
-        "start": "npm run lite",
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "lite": "lite-server"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/satwika1234/Coursera-FrontendWebDevlopment.git"
-    },
-    "author": "Satwika Penugonda",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/satwika1234/Coursera-FrontendWebDevlopment/issues"
-    },
-    "homepage": "https://github.com/satwika1234/Coursera-FrontendWebDevlopment#readme",
-    "dependencies": {},
+  "name": "confusion",
+  "version": "1.0.0",
+  "description": "This is a website for Ristorante Con Fusion",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
     "devDependencies": {
-        "lite-server": "^2.6.1"
-    }
+    "lite-server": "^2.3.0"
+  }
 }
